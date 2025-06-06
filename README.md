@@ -1,6 +1,6 @@
 # Pans-and-More
 
-A Full Stack MERN recipe sharing website where users can create accounts, post recipes and interact with other's recipes. It is an engaging web application designed for food enthusiasts who love to share and discover recipes.
+A Full Stack MERN recipe sharing website where users can create accounts, post recipes and interact with other's recipes. It is an engaging web application designed for food enthusiasts who love to share and discover recipes.  
 
 ## Features
 
